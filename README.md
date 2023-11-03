@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonal bhardwaj</h1>
-<h3 align="center">A College student who like to code everyday.</h3>
+<h3 align="center"></h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SonalBhardwaj09l&color=blueviolet&style=flat">
@@ -9,7 +9,7 @@
 
 Junior developer | enthusiastic about tech 🚀| Book worm | Traveller 🛫
 
-- 🌱 I’m currently working on **Java and DSA**
+- 🌱 I’m currently working on **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/SonalBhardwaj09?tab=repositories)
 
