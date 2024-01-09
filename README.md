@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sonal bhardwaj</h1>
+<h1 align="center"> Sonal bhardwaj</h1>
 <h3 align="center"></h3>
 	
 <p align="center">
@@ -7,7 +7,7 @@
   
 </p>
 
-Junior developer | enthusiastic about tech 🚀| Book worm | Traveller 🛫
+Data Scientist
 
 - 🌱 I’m currently working on **Machine Learning**
 
