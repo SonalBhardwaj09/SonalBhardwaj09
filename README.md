@@ -22,6 +22,7 @@ Data Scientist
 <br>
 ![Java](https://img.shields.io/badge/Java-8A2BE2)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Jupyter Notebook](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
