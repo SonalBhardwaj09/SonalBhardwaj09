@@ -22,7 +22,7 @@ Data Scientist
 <br>
 ![Java](https://img.shields.io/badge/Java-8A2BE2)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter Notebook-8A2BE2)
+
 
 <br/>
 
@@ -44,5 +44,5 @@ Data Scientist
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SonalBhardwaj09" alt="SonalBhardwaj09" /></p>
 
 
-`Note`:This readme is based on: https://github.com/sharmapr25/sharmapr25
+
 
