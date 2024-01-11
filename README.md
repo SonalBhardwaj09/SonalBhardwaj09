@@ -9,16 +9,14 @@
 
 Data Scientist
 
-- 🌱 I’m currently working on **Machine Learning**
+-  I’m currently working on **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/SonalBhardwaj09?tab=repositories)
+-  All of my projects are available at [github](https://github.com/SonalBhardwaj09?tab=repositories)
 
 
 	
 ### 🛠 &nbsp;Languages and Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-<br>
+![Python](https://img.shields.io/badge/Python-8A2BE2)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 <br>
