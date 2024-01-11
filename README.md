@@ -26,9 +26,6 @@ Data Scientist
 
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
