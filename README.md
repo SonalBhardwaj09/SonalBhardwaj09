@@ -20,7 +20,7 @@ Data Scientist
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 <br>
-![Java](https://img.shields.io/badge/Java-8A2BE2)
+![Power bi](https://img.shields.io/badge/Java-8A2BE2)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
 
