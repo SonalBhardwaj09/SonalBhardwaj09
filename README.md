@@ -1,4 +1,4 @@
-<h1 align="center"> Sonal bhardwaj</h1>
+![Sonal](https://raw.githubusercontent.com/SonalBhardwaj09/SonalBhardwaj09/main/sonal.svg)
 <h3 align="center"></h3>
 	
 <p align="center">
@@ -32,8 +32,6 @@ Data Scientist
 <a href="https://www.linkedin.com/in/sonal-bhardwaj-176975238/"><img src="https://img.shields.io/badge/-sonal%20bhardwaj-176975238?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SonalBhardwaj09" alt="SonalBhardwaj09" /></p>
-
-
+![Sonal](https://raw.githubusercontent.com/SonalBhardwaj09/SonalBhardwaj09/main/bottom_header.svg)
 
 
