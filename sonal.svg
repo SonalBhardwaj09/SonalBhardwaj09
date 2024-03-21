@@ -3,7 +3,7 @@
     text {
       font-family: 'Pacifico', cursive;
       font-size: 80px;
-      fill: #87CEEB; /* Sky blue color */
+      fill: #ff1493; /* Sky blue color */
       text-anchor: middle;
       opacity: 0;
       animation: fadeIn 2s forwards;
@@ -56,19 +56,21 @@
     }
   </style>
   
-  <!-- Sonal Bhardwaj Text -->
+  <!-- Sonal Text -->
   <text id="S" x="10%" y="120">S</text>
   <text id="o" x="20%" y="120">o</text>
   <text id="n1" x="30%" y="120">n</text>
   <text id="a" x="40%" y="120">a</text>
   <text id="l" x="50%" y="120">l</text>
-  <text id="space" x="55%" y="120"> </text>
-  <text id="B" x="60%" y="120">B</text>
-  <text id="h" x="70%" y="120">h</text>
-  <text id="a2" x="80%" y="120">a</text>
-  <text id="r" x="90%" y="120">r</text>
-  <text id="d" x="100%" y="120">d</text>
-  <text id="w" x="110%" y="120">w</text>
-  <text id="a3" x="120%" y="120">a</text>
-  <text id="j" x="130%" y="120">j</text>
+  
+  <!-- Bhardwaj Text -->
+  <text id="space" x="50%" y="200"> </text>
+  <text id="B" x="60%" y="240">B</text>
+  <text id="h" x="70%" y="240">h</text>
+  <text id="a2" x="80%" y="240">a</text>
+  <text id="r" x="90%" y="240">r</text>
+  <text id="d" x="100%" y="240">d</text>
+  <text id="w" x="110%" y="240">w</text>
+  <text id="a3" x="120%" y="240">a</text>
+  <text id="j" x="130%" y="240">j</text>
 </svg>
